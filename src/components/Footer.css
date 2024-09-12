@@ -1,0 +1,15 @@
+.footer {
+    background-color: #003366; /* Dark Blue Color */
+    color: #ffffff; /* White Text */
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
